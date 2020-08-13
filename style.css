@@ -212,7 +212,7 @@ h1 {
 .list {
     display: inline-block;
     font-size: 16px;
-    float: center;
+    
     margin-left: 50%;
     
 }
@@ -232,4 +232,5 @@ h1 {
     font-size: 90%;
     font-weight: 100;
 }
+
 
