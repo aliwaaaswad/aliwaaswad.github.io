@@ -163,7 +163,7 @@ h1 {
     padding : 0 ;
 }
 .categories-list{
-    margin: -15% 25%;
+    margin: -15% 20%;
     list-style: none;
     width: 70%;
 }
@@ -234,3 +234,6 @@ h1 {
 }
 
 
+.psd {
+    margin-top: -217px;
+}
